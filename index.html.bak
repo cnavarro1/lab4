@@ -65,8 +65,8 @@
         </div>
 	    <div>
 	    <label for="textarea">Any Comments?</label>
-		  <textarea cols="30" rows="10" name="comments_field" placeholder="Comments" id="textarea"></textarea>
 	    </div>
+		<textarea cols="30" rows="10" name="comments_field" placeholder="Comments" id="textarea"></textarea>
 	  </fieldset>
 	  <div>
 	    <input="submit" value="Send Me">
