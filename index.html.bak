@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8">
-	<title>Lab 4</title>
+	<title>Volunteer Form</title>
   </head>
   <body>
     <form action="http://bloomingdale.sat.iit.edu/krieden/lab3formscropt.php" method="post">
@@ -69,6 +69,8 @@
 	    </div>
 		<textarea cols="30" rows="10" name="comments_field" placeholder="Comment here" id="textarea"></textarea>
 	  </fieldset>
+	  <div>
+	    <input type="hidden" name="hidden_field" value="cnavarro1">
 	  <div>
 	    <input type="submit" value="Send Me">
 	  </div>
